@@ -8,6 +8,6 @@ Product Listings: Organized product categories with a grid layout that mimics th
 Product Detail Pages: Structured pages that display product images, descriptions, and pricing details.
 Navigation Bar: A functional navigation bar that allows users to browse different categories and sections of the website.
 
-Technologies Used
-HTML: For the structure and content of the website.
-CSS: For styling, layout, and responsiveness.
+Technologies Used :
+HTML
+CSS
